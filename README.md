@@ -3,7 +3,8 @@
 A Web App For Basic SQL editor view to demonstrate where your users can query easily on a table using SQL and have ui components for the functionalities that can be added.
 
 ## Production Build
-https://abhishek-sql-editor.netlify.app/
+
+https://rajshree-sql-editor.netlify.app/
 
 ## Requirements
 
@@ -25,8 +26,6 @@ https://abhishek-sql-editor.netlify.app/
 4. App can be seen at: `http://localhost:3000/`
 
 ## Page Load Time
-
-
 
 ### Steps taken to Optimize
 
