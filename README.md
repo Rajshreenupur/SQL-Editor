@@ -1,6 +1,10 @@
-# SQL Editor
+# SQL Editor as a part of Atlan Assignment
 
-A Web App For Basic SQL editor view to demonstrate where your users can query easily on a table using SQL and have ui components for the functionalities that can be added.
+EdiQL fulfils all the requirements that were mentioned by team Atlan.
+
+You can run different queries on the table and view data of each table. The queries are : ALTER TABLE, ANALYZE, CREATE VIEW, DROP TABLE
+
+Task : Create a SQL editor view where your users can query easily on a table using SQL, and see the results.
 
 ## Production Build
 
@@ -26,6 +30,10 @@ https://rajshree-sql-editor.netlify.app/
 4. App can be seen at: `http://localhost:3000/`
 
 ## Page Load Time
+
+Page Load TIme has been calculated by using the [Lighthouse Tool](https://developers.google.com/web/tools/lighthouse).
+
+<img width="1440" alt="ss of performance.png" src="https://user-images.githubusercontent.com/56116708/132289454-da310ada-4325-43e6-93a6-db99486623f8.png">
 
 ### Steps taken to Optimize
 
