@@ -55,12 +55,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshots
 
-<img width="1439" alt="s1.png" src="https://user-images.githubusercontent.com/56116708/132289773-32250d77-3203-4d7b-b4a6-751672a45957.png">
+<img width="1439" alt="s1.png" src="https://github.com/Rajshreenupur/SQL-Editor/blob/master/images/s1.png">
 
-<img width="1439" alt="s2.png" src="https://user-images.githubusercontent.com/56116708/132289814-0c3f2601-dc23-43d8-9518-e41beaa05ba2.png">
+<img width="1439" alt="s2.png" src="https://github.com/Rajshreenupur/SQL-Editor/blob/master/images/s2.png">
 
-<img width="1440" alt="s3.png" src="https://user-images.githubusercontent.com/56116708/132289888-05f87a54-f461-4df8-8912-e9e58d70b462.png">
+<img width="1440" alt="s3.png" src="https://github.com/Rajshreenupur/SQL-Editor/blob/master/images/s3.png">
 
-<img width="1427" alt="s4.png" src="https://user-images.githubusercontent.com/56116708/132290058-f599c2f4-577e-4efa-b516-4f7814c82413.png">
+<img width="1427" alt="s4.png" src="https://github.com/Rajshreenupur/SQL-Editor/blob/master/images/s4.png">
 
-<img width="1440" alt="s5.png" src="https://user-images.githubusercontent.com/56116708/132290096-71c22dc1-b534-4ee8-b312-db5ab2a9f4af.png">
+<img width="1440" alt="s5.png" src="https://github.com/Rajshreenupur/SQL-Editor/blob/master/images/s5.png">
