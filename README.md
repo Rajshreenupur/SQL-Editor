@@ -10,6 +10,10 @@ Task : Create a SQL editor view where your users can query easily on a table usi
 
 https://rajshree-sql-editor.netlify.app/
 
+## Data
+
+I have coverted the csv files provided by team Atlan to JSON format and thus loaded it anytime a query is demanding the data to be retrieved from the file.
+
 ## Requirements
 
 - yarn
@@ -34,6 +38,8 @@ https://rajshree-sql-editor.netlify.app/
 Page Load TIme has been calculated by using the [Lighthouse Tool](https://developers.google.com/web/tools/lighthouse).
 
 <img width="1440" alt="ss of performance.png" src="https://github.com/Rajshreenupur/SQL-Editor/blob/master/images/ss%20of%20performance.png">
+
+<img width="1440" alt="ss of performance1.png" src="https://github.com/Rajshreenupur/SQL-Editor/blob/master/images/ss%20of%20performance.png">
 
 ### Steps taken to Optimize
 
