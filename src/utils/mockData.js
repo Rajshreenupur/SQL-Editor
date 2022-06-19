@@ -1,4 +1,4 @@
-// Data dump from https://github.com/graphql-compose/graphql-compose-examples/tree/master/examples/northwind/data/json
+// Data dump from https://github.com/graphql-compose/graphql-compose-examples/tree/master/examples/northwind/data/csv
 const mockData = {
   customers: [
     {
@@ -14554,7 +14554,7 @@ export const getTablesMockData = () => {
         tableName,
         columns: Object.keys(tableRows[0]).map((column) => ({
           name: column,
-        //  type: getRandomDataType(),
+          //  type: getRandomDataType(),
         })),
       },
       rows: tableRows,
