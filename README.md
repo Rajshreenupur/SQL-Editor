@@ -33,7 +33,7 @@ https://rajshree-sql-editor.netlify.app/
 
 Page Load TIme has been calculated by using the [Lighthouse Tool](https://developers.google.com/web/tools/lighthouse).
 
-<img width="1440" alt="ss of performance.png" src="https://user-images.githubusercontent.com/56116708/132289454-da310ada-4325-43e6-93a6-db99486623f8.png">
+<img width="1440" alt="ss of performance.png" src="https://github.com/Rajshreenupur/SQL-Editor/blob/master/images/ss%20of%20performance.png">
 
 ### Steps taken to Optimize
 
